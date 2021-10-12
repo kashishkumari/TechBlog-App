@@ -11,6 +11,8 @@ The app consists of three screens :
 
 Upon clicking the news, the user gets redirected to the website that contains the article.
 
+<img src="user-images.githubusercontent.com/83121957/137021737-50f9cbd0-735d-4031-bb9e-2434bbb36197.png" alt="image" style="width:200px;"/>
+
 ![Simulator Screen Shot - iPhone 13 - 2021-10-13 at 01 11 12](https://user-images.githubusercontent.com/83121957/137021737-50f9cbd0-735d-4031-bb9e-2434bbb36197.png)
 ![image](https://user-images.githubusercontent.com/83121957/137021795-34eb033d-5a44-4eb8-ab5b-5d0f7cef6caa.png)
 ![image](https://user-images.githubusercontent.com/83121957/137021817-503a303f-bd49-42d2-9cf2-91d8ce599156.png)
