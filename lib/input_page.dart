@@ -25,6 +25,8 @@ class _InputPageState extends State<InputPage> {
                 fontSize: 40,
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
+                letterSpacing: 0.7,
+                fontFamily: 'Libre Baskerville',
                 //fontFamily:
               ),
             ),
@@ -57,7 +59,7 @@ class _InputPageState extends State<InputPage> {
                     fontSize: 40,
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
-                    //fontFamily:
+                    fontFamily: 'Abril Fatface',
                   ),
                 ),
 
@@ -92,6 +94,7 @@ class _InputPageState extends State<InputPage> {
                     fontSize: 40,
                     color: Colors.black,
                     fontWeight: FontWeight.bold,
+                    fontFamily: 'Abril Fatface',
                     //fontFamily:
                   ),
                 ),

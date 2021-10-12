@@ -16,6 +16,7 @@ class TechNews extends StatelessWidget {
                 fontSize: 50,
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
+                fontFamily: 'Abril Fatface',
                 //fontFamily:
               ),
             ),
@@ -34,11 +35,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                   ),
                       subtitle: Text(
                         'BBC News',
+                        style: TextStyle(
+                          fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.bbc.com/news/technology-58844502';
@@ -60,11 +64,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Shelby Brown',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.cnet.com/news/amazon-expands-remote-work-options-for-many-employees-as-pandemic-persists/';
@@ -86,11 +93,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Sam Byford',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.theverge.com/2021/10/12/22722122/adobe-photoshop-ipad-camera-raw-support-coming-soon';
@@ -112,11 +122,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Jennifer Pattison Tuohy',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.theverge.com/2021/10/12/22720890/siri-voice-control-ecobee-smart-thermostats';
@@ -138,11 +151,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Tom Warren',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.theverge.com/2021/10/12/22722155/microsoft-azure-biggest-ddos-attack-ever-2-4-tbps';
@@ -164,11 +180,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Jay Peters',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.theverge.com/2021/10/11/22721337/htc-vive-flow-vr-headset-vivport-verse-metaverse';
@@ -190,11 +209,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Pragya Sehgal',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.itworldcanada.com/article/ibm-helps-launch-fourth-tuition-free-tech-program-in-canada/423589';
@@ -216,11 +238,14 @@ class TechNews extends StatelessWidget {
                           fontSize: 25,
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
-                          //fontFamily:
+                          fontFamily: 'Libre Baskerville',
                         ),
                       ),
                       subtitle: Text(
                         'Howard Solomon',
+                        style: TextStyle(
+                            fontFamily: 'Slabo 27px'
+                        ),
                       ),
                       onTap: () async {
                         const url = 'https://www.itworldcanada.com/article/blackberry-helps-partners-secure-software-supply-chain/460441';
