@@ -34,7 +34,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  url_launcher: ^6.0.12
+  http: ^0.12.0+4
+  cached_network_image: ^2.0.0
+  webview_flutter: ^0.3.19+9
+  url_launcher: ^6.1.2
 
 dev_dependencies:
   flutter_test:
@@ -82,7 +85,7 @@ flutter:
       fonts:
         - asset: assets/fonts/LibreBaskerville-Bold.ttf
         - asset: assets/fonts/LibreBaskerville-Regular.ttf
-    - family: Slabo 27px
+    - family: Slabo
       fonts:
         - asset: assets/fonts/Slabo27px-Regular.ttf
 
